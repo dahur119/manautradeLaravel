@@ -59,7 +59,7 @@
 				<div class="approach-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="#"><img src="images/resource/approach-1.jpg" alt="" /></a>
+							<a href="#"><img src="images/resource/approach-11.jpg" alt="" style="width: 330px; height: 221px;"  /></a>
 						</div>
 						<div class="lower-content">
 							<h4>Base Oils</h4>
@@ -72,7 +72,7 @@
 				<div class="approach-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="#"><img src="images/resource/approach-2.jpg" alt="" /></a>
+							<a href="#"><img src="images/resource/approach-22.jpg" alt="" style="width: 330px; height: 221px;" /></a>
 						</div>
 						<div class="lower-content">
 							<h4>Automotive Gas Oil (AGO)</h4>
@@ -85,7 +85,7 @@
 				<div class="approach-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="#"><img src="images/resource/approach-3.jpg" alt="" /></a>
+							<a href="#"><img src="images/resource/approach-33.jpg" alt="" style="width: 330px; height: 221px;"  /></a>
 						</div>
 						<div class="lower-content">
 							<h4>High-Density Polyethylene (HDPE)</h4>

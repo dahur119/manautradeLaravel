@@ -104,7 +104,7 @@
 			</div>
 			
 			<div class="footer-bottom">
-				<div class="copyright">&copy; 2022 Industo - All rights reserved. <a href="">Ovarlie Digitals</a></div>
+				<div class="copyright">&copy; 2025 ManutradePro - All rights reserved. <a href="">Ovarlie Digitals</a></div>
 			</div>
 			
 		</div>

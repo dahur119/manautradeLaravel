@@ -100,11 +100,13 @@
 									<li><a href="{{ route('about') }}">About</a>
 										
 									</li>
+
+									<li><a href="{{ route('product') }}">Products</a></li>
 									<li><a href="{{ route('services') }}">Services</a>
 										
 									</li>
 									
-									<li><a href="{{ route('product') }}">Products</a></li>
+								
 								</ul>
 							</div>
 						</nav>
